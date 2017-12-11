@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/vanderbilt-redcap/shared-library-example.git"
+        }
+    ],
+    "require": {
+        "vanderbilt/shared-library-example": "dev-master"
+    }
+}

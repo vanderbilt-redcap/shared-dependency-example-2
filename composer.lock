@@ -1,0 +1,52 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "680d338028b62cbd8ac8a9547d06cfa5",
+    "packages": [
+        {
+            "name": "vanderbilt/shared-library-example",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/vanderbilt-redcap/shared-library-example.git",
+                "reference": "5482896a871e2346eb4561025fc9fde03a7cd8c6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/vanderbilt-redcap/shared-library-example/zipball/5482896a871e2346eb4561025fc9fde03a7cd8c6",
+                "reference": "5482896a871e2346eb4561025fc9fde03a7cd8c6",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    ""
+                ]
+            },
+            "authors": [
+                {
+                    "name": "Mark McEver",
+                    "email": "mark@fastmail.net"
+                }
+            ],
+            "support": {
+                "source": "https://github.com/vanderbilt-redcap/shared-library-example/tree/master",
+                "issues": "https://github.com/vanderbilt-redcap/shared-library-example/issues"
+            },
+            "time": "2017-12-11T16:20:31+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "vanderbilt/shared-library-example": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
